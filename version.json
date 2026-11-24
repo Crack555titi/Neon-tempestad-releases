@@ -1,10 +1,10 @@
 {
-  "latest": "1.4.13",
-  "min": "1.4.13",
-  "notes": "Las actualizaciones ahora se descargan desde el repositorio oficial de descargas de Neón Tempestad.",
+  "latest": "1.4.14",
+  "min": "1.4.14",
+  "notes": "La vida del chico más completa: vas caminando a la escuela, tu cuarto tiene la PC con chat, internet y Neón Tempestad (elegís cualquier héroe), podés acostarte de noche, pausa y guardado automático. Los vecinos hablan, los mensajes los manda un desconocido y el barrio y los interiores se ven mucho mejor. Noches más justas: duran como mucho 15 minutos, la linterna se carga sentado y el Poseído solo ataca si lo alumbrás.",
   "url": "https://github.com/Crack555titi/Neon-tempestad-releases/releases/latest",
-  "exe": "NeonTempestad-Setup-1.4.13.exe",
-  "apk": "NeonTempestad-1.4.13.apk",
-  "apkSha256": "0cb0b32647aeea8fdc7c5a046dac384d7e445f787d5f8c8ab50331859d9f4ce3",
-  "sha256": "c7c2b921ade68368489d6bb26dce88f0c40aa640e058972ffa1629f7e9ebf011"
+  "exe": "NeonTempestad-Setup-1.4.14.exe",
+  "apk": "NeonTempestad-1.4.14.apk",
+  "apkSha256": "5dcfa18520fb521e2e97598694bd30bf03a70eb8e73c72d4478b0d99269acc2b",
+  "sha256": "d5d2e87fa7473a41138d5bd0fb36535980471cf59d952d91cbf63733ad104011"
 }
