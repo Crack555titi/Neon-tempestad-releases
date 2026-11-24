@@ -1,10 +1,10 @@
 {
-  "latest": "1.4.12",
-  "min": "1.4.12",
-  "notes": "La Campaña arranca con un susto a las 3:33 y NICO te escribe en el monitor cada noche. Se puede entrar a la escuela, el kiosco, la biblioteca, el ciber y a todos los cuartos de tu casa; cancha grande en el parque; el barrio es más lindo (cielo con nubes, sombras, árboles nuevos, veredas y asfalto con textura) y hay un enano de jardín que te sigue. Gritos nuevos para cada monstruo. Arreglado: la noche 2 ya no traba el juego, las paredes vuelven a frenar. Soporte para modelos 3D reales y posprocesado de la imagen.",
+  "latest": "1.4.13",
+  "min": "1.4.13",
+  "notes": "Las actualizaciones ahora se descargan desde el repositorio oficial de descargas de Neón Tempestad.",
   "url": "https://github.com/Crack555titi/Neon-tempestad-releases/releases/latest",
-  "exe": "NeonTempestad-Setup-1.4.12.exe",
-  "apk": "NeonTempestad-1.4.12.apk",
-  "apkSha256": "6aa6fd906ed5ea5e75e924c7b4b4ffe8e1b2c68946df83f97af078881e9a9c3e",
-  "sha256": "8b82d5ae68d4533898ba4daa91f691efe0df666a4de5083a607945a0b60a3b48"
+  "exe": "NeonTempestad-Setup-1.4.13.exe",
+  "apk": "NeonTempestad-1.4.13.apk",
+  "apkSha256": "0cb0b32647aeea8fdc7c5a046dac384d7e445f787d5f8c8ab50331859d9f4ce3",
+  "sha256": "c7c2b921ade68368489d6bb26dce88f0c40aa640e058972ffa1629f7e9ebf011"
 }
