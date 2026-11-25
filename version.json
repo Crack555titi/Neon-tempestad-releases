@@ -1,10 +1,10 @@
 {
-  "latest": "1.4.14",
-  "min": "1.4.14",
-  "notes": "La vida del chico más completa: vas caminando a la escuela, tu cuarto tiene la PC con chat, internet y Neón Tempestad (elegís cualquier héroe), podés acostarte de noche, pausa y guardado automático. Los vecinos hablan, los mensajes los manda un desconocido y el barrio y los interiores se ven mucho mejor. Noches más justas: duran como mucho 15 minutos, la linterna se carga sentado y el Poseído solo ataca si lo alumbrás.",
+  "latest": "1.4.15",
+  "min": "1.4.15",
+  "notes": "Cinco noches distintas: la habitación (los monstruos se suman cada 5 minutos y el Desconocido explica cada uno), el bosque, el pasillo que no termina, la pesadilla adentro del juego y la pelea final contra los Híbridos de Nico. De noche se juega solo con los Híbridos, dormir en la cama mejora la nota, la PC tiene chat y explorador de archivos, y la senda peatonal está bien puesta.",
   "url": "https://github.com/Crack555titi/Neon-tempestad-releases/releases/latest",
-  "exe": "NeonTempestad-Setup-1.4.14.exe",
-  "apk": "NeonTempestad-1.4.14.apk",
-  "apkSha256": "5dcfa18520fb521e2e97598694bd30bf03a70eb8e73c72d4478b0d99269acc2b",
-  "sha256": "d5d2e87fa7473a41138d5bd0fb36535980471cf59d952d91cbf63733ad104011"
+  "exe": "NeonTempestad-Setup-1.4.15.exe",
+  "apk": "NeonTempestad-1.4.15.apk",
+  "apkSha256": "a89d2fdef331427cc9f137b21ca36ac6983f52c3fe1a23872e6dd2bd894ce53d",
+  "sha256": "b15d24e776b5c6c010c1be18f323ac0183ae421b43c036576305114a55145f1f"
 }
